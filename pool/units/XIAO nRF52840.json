@@ -1,0 +1,223 @@
+{
+    "manufacturer": "Seeed Studio",
+    "name": "XIAO nRF52840",
+    "pins": {
+        "06cda13a-4862-4d8b-b497-185f581af1cb": {
+            "alt_names": {
+                "a9ac2314-603d-4577-922f-08cda6640e76": {
+                    "direction": "bidirectional",
+                    "name": "A3"
+                },
+                "d315e997-a0c8-4a61-b7ff-f148a661ae55": {
+                    "direction": "bidirectional",
+                    "name": "D3"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.29",
+            "swap_group": 0
+        },
+        "077b0715-456c-41eb-ac2a-63aadbfc92b0": {
+            "alt_names": {
+                "4d65d867-ce97-4a62-92f6-b84d9f9f914f": {
+                    "direction": "output",
+                    "name": "SCL"
+                },
+                "a9ac2314-603d-4577-922f-08cda6640e76": {
+                    "direction": "bidirectional",
+                    "name": "A5"
+                },
+                "d315e997-a0c8-4a61-b7ff-f148a661ae55": {
+                    "direction": "bidirectional",
+                    "name": "D5"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.05",
+            "swap_group": 0
+        },
+        "1342e4ce-f9aa-42fe-bd6c-15dffadd1c87": {
+            "alt_names": {
+                "a9ac2314-603d-4577-922f-08cda6640e76": {
+                    "direction": "bidirectional",
+                    "name": "A2"
+                },
+                "d315e997-a0c8-4a61-b7ff-f148a661ae55": {
+                    "direction": "bidirectional",
+                    "name": "D2"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.28",
+            "swap_group": 0
+        },
+        "217d1a53-0064-4e4e-967f-cdb51cbb1962": {
+            "alt_names": {
+                "a9ac2314-603d-4577-922f-08cda6640e76": {
+                    "direction": "bidirectional",
+                    "name": "A1"
+                },
+                "d315e997-a0c8-4a61-b7ff-f148a661ae55": {
+                    "direction": "bidirectional",
+                    "name": "D1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.03",
+            "swap_group": 0
+        },
+        "33ba64e9-2f99-4b24-8897-43cb60198979": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "5V",
+            "swap_group": 0
+        },
+        "3e46e330-72cb-4000-8e57-b1bf97d1a18f": {
+            "alt_names": {
+                "a9ac2314-603d-4577-922f-08cda6640e76": {
+                    "direction": "input",
+                    "name": "MISO"
+                },
+                "d315e997-a0c8-4a61-b7ff-f148a661ae55": {
+                    "direction": "bidirectional",
+                    "name": "D9"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.14",
+            "swap_group": 0
+        },
+        "4413fb9b-446d-4c7e-a066-99c09bf96272": {
+            "alt_names": {
+                "a9ac2314-603d-4577-922f-08cda6640e76": {
+                    "direction": "output",
+                    "name": "TX"
+                },
+                "d315e997-a0c8-4a61-b7ff-f148a661ae55": {
+                    "direction": "bidirectional",
+                    "name": "D6"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.11",
+            "swap_group": 0
+        },
+        "4e9deefe-a2d7-4b47-a9e8-f95df27a50c8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "BAT+",
+            "swap_group": 0
+        },
+        "526baeb5-0058-4957-b4bb-5c980d869c1c": {
+            "alt_names": {
+                "a9ac2314-603d-4577-922f-08cda6640e76": {
+                    "direction": "output",
+                    "name": "SCK"
+                },
+                "d315e997-a0c8-4a61-b7ff-f148a661ae55": {
+                    "direction": "bidirectional",
+                    "name": "D8"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.13",
+            "swap_group": 0
+        },
+        "536cd243-60ab-4fb4-a750-543e3fd50d95": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "3V3",
+            "swap_group": 0
+        },
+        "6a04676b-13b8-4be9-ab69-679c35c3fccf": {
+            "alt_names": {
+                "a9ac2314-603d-4577-922f-08cda6640e76": {
+                    "direction": "bidirectional",
+                    "name": "A0"
+                },
+                "d315e997-a0c8-4a61-b7ff-f148a661ae55": {
+                    "direction": "bidirectional",
+                    "name": "D0"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.02",
+            "swap_group": 0
+        },
+        "82be8869-1332-4d88-8e74-d579c158946c": {
+            "alt_names": {
+                "4d65d867-ce97-4a62-92f6-b84d9f9f914f": {
+                    "direction": "bidirectional",
+                    "name": "SDA"
+                },
+                "a9ac2314-603d-4577-922f-08cda6640e76": {
+                    "direction": "bidirectional",
+                    "name": "A4"
+                },
+                "d315e997-a0c8-4a61-b7ff-f148a661ae55": {
+                    "direction": "bidirectional",
+                    "name": "D4"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P0.04",
+            "swap_group": 0
+        },
+        "938d57a0-fa87-4f2a-9ab1-e17da1411e89": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "BAT-",
+            "swap_group": 0
+        },
+        "cee5dbef-a147-4936-bbdc-f27b365508f9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "cf4fa48f-847f-4983-bd8b-00db9afaf991": {
+            "alt_names": {
+                "a9ac2314-603d-4577-922f-08cda6640e76": {
+                    "direction": "output",
+                    "name": "MOSI"
+                },
+                "d315e997-a0c8-4a61-b7ff-f148a661ae55": {
+                    "direction": "bidirectional",
+                    "name": "D10"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.15",
+            "swap_group": 0
+        },
+        "d0d842ad-d31a-4d4d-aa9c-214d89b72d93": {
+            "alt_names": {
+                "a9ac2314-603d-4577-922f-08cda6640e76": {
+                    "direction": "input",
+                    "name": "RX"
+                },
+                "d315e997-a0c8-4a61-b7ff-f148a661ae55": {
+                    "direction": "bidirectional",
+                    "name": "D7"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.12",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "36c0bad3-8d9e-42cb-a611-08ca89177427",
+    "version": 1
+}

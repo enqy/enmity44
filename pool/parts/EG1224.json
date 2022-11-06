@@ -1,0 +1,67 @@
+{
+    "MPN": [
+        false,
+        "EG1224"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/lcsc/1912111437_E-Switch-EG1224_C273395.pdf"
+    ],
+    "description": [
+        false,
+        "Lying 500mA SPDT 15.5mm 15V PCPin Rectangular columnar -20℃~+70℃ Plugin Slide Switches ROHS"
+    ],
+    "entity": "4e3d1693-0b7a-4ff4-ae70-0927233f4072",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "E-Switch"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "a46b58ff-1b7d-4663-9e6a-2be9d84f285b": "C273395"
+    },
+    "package": "4254d261-d5f6-45d3-9c21-de86d56789a5",
+    "pad_map": {
+        "0dab81b8-1b3a-407f-a939-d4824bded069": {
+            "gate": "bb30914e-42d3-47ca-9946-9ce0e743f3e3",
+            "pin": "a9c63d2a-7c8a-4af1-a4b1-b7fb16dcf666"
+        },
+        "26c39060-8efd-49e1-9de6-ca9c803ba72f": {
+            "gate": "bb30914e-42d3-47ca-9946-9ce0e743f3e3",
+            "pin": "a9c63d2a-7c8a-4af1-a4b1-b7fb16dcf666"
+        },
+        "2bcca312-e7a0-4fff-92fa-74516e55afc5": {
+            "gate": "bb30914e-42d3-47ca-9946-9ce0e743f3e3",
+            "pin": "70132509-7fa4-46cb-b7c5-5aa8e2afd59b"
+        },
+        "332c3174-c466-495f-b8fd-77f8d04f3b1c": {
+            "gate": "bb30914e-42d3-47ca-9946-9ce0e743f3e3",
+            "pin": "419421c6-ad32-4a83-b4d0-4240ef49aa53"
+        },
+        "62743985-c976-4a90-9f9e-bd4b34190fd0": {
+            "gate": "bb30914e-42d3-47ca-9946-9ce0e743f3e3",
+            "pin": "a9c63d2a-7c8a-4af1-a4b1-b7fb16dcf666"
+        },
+        "9ff65bb6-5f56-4749-9448-c26f55b1120d": {
+            "gate": "bb30914e-42d3-47ca-9946-9ce0e743f3e3",
+            "pin": "a9c63d2a-7c8a-4af1-a4b1-b7fb16dcf666"
+        },
+        "e620a0ce-c3c1-45da-92e4-511c40f84f0c": {
+            "gate": "bb30914e-42d3-47ca-9946-9ce0e743f3e3",
+            "pin": "981b2dfb-b540-46b6-bb60-169bb0fc0974"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "slide",
+        "switch"
+    ],
+    "type": "part",
+    "uuid": "72785bff-b0f4-496d-8481-9ba4cab4bd6a",
+    "value": [
+        false,
+        ""
+    ]
+}

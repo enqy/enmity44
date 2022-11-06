@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "PG1350"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Kailh Choc Low Profile Keyswitch"
+    ],
+    "entity": "50a37764-d0dc-4a01-aa5d-c2e4ca670b2c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Kailh"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "e815e59b-390c-4476-b208-f2a75c596bde",
+    "pad_map": {
+        "47dd17cc-cd8d-4dec-82a8-c8606f03fbc4": {
+            "gate": "b9e91bc5-3856-4bb5-8f75-d31d5ee8ff59",
+            "pin": "9b316ceb-6f60-43d1-8d8d-e9bce08bb637"
+        },
+        "86d1518a-e02c-4526-a524-5f5949187916": {
+            "gate": "b9e91bc5-3856-4bb5-8f75-d31d5ee8ff59",
+            "pin": "4a203716-93a1-4305-bb1b-c5652e31dcfa"
+        },
+        "ea15b12b-713b-4599-9575-85bc74d169da": {
+            "gate": "b9e91bc5-3856-4bb5-8f75-d31d5ee8ff59",
+            "pin": "9b316ceb-6f60-43d1-8d8d-e9bce08bb637"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "b217f9e3-3c46-4c0f-a015-887b8b5dbd56",
+    "value": [
+        false,
+        ""
+    ]
+}

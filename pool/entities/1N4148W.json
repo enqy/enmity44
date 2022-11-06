@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "7c67a71b-a892-4f13-bdbe-a6005509e4b4": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c1aeb166-58f2-45b4-9549-cfa3595ddd67"
+        }
+    },
+    "manufacturer": "",
+    "name": "1N4148W",
+    "prefix": "D",
+    "tags": [
+        "diode"
+    ],
+    "type": "entity",
+    "uuid": "4f4dd188-630e-4297-b66b-b424a0d4c376"
+}

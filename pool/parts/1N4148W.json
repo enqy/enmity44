@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "1N4148W"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Diode"
+    ],
+    "entity": "4f4dd188-630e-4297-b66b-b424a0d4c376",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "b900903e-b11f-4ab5-8df1-770bef92770b",
+    "pad_map": {
+        "24c98c74-71da-438d-8157-6321eff3b287": {
+            "gate": "7c67a71b-a892-4f13-bdbe-a6005509e4b4",
+            "pin": "813a4648-6cae-471a-adb5-e7f5780e02b4"
+        },
+        "7c2bd54e-2d60-4f86-baeb-33997d1510d1": {
+            "gate": "7c67a71b-a892-4f13-bdbe-a6005509e4b4",
+            "pin": "b5271e94-e5ca-4f3c-8ba2-b545cb7b1489"
+        },
+        "8133a3f5-6d99-4dc4-a354-b6c84ef34797": {
+            "gate": "7c67a71b-a892-4f13-bdbe-a6005509e4b4",
+            "pin": "b5271e94-e5ca-4f3c-8ba2-b545cb7b1489"
+        },
+        "c65252bd-3d5d-4ec5-b5a4-0db825f07a51": {
+            "gate": "7c67a71b-a892-4f13-bdbe-a6005509e4b4",
+            "pin": "813a4648-6cae-471a-adb5-e7f5780e02b4"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode"
+    ],
+    "type": "part",
+    "uuid": "de8e0707-4ef0-45dd-b2dd-47bb70f37952",
+    "value": [
+        false,
+        ""
+    ]
+}

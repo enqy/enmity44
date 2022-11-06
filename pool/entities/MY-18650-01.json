@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "bc2ed153-fde1-442c-9b6a-3e653969ce8e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "52ccb88b-7b82-46bc-80c3-de3b69fe552b"
+        }
+    },
+    "manufacturer": "MYOUNG",
+    "name": "MY-18650-01",
+    "prefix": "B",
+    "tags": [
+        "battery",
+        "holder"
+    ],
+    "type": "entity",
+    "uuid": "2e3290b1-ea78-434c-9ed0-6935cfdcfda5"
+}

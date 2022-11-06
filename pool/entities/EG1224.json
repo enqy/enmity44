@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "bb30914e-42d3-47ca-9946-9ce0e743f3e3": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "7ffbdd3b-e9fa-4433-a610-e488eb3940dd"
+        }
+    },
+    "manufacturer": "",
+    "name": "EG1224",
+    "prefix": "S",
+    "tags": [
+        "switch"
+    ],
+    "type": "entity",
+    "uuid": "4e3d1693-0b7a-4ff4-ae70-0927233f4072"
+}

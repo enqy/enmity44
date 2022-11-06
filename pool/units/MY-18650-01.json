@@ -1,0 +1,20 @@
+{
+    "manufacturer": "MYOUNG",
+    "name": "MY-18650-01",
+    "pins": {
+        "5074846c-f81f-49de-ba70-2702bf42a8f2": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B+",
+            "swap_group": 0
+        },
+        "da289d16-f543-4e0a-bdda-1a1f5487bc46": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B-",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "52ccb88b-7b82-46bc-80c3-de3b69fe552b"
+}

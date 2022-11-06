@@ -1,0 +1,20 @@
+{
+    "manufacturer": "Kailh",
+    "name": "PG1350",
+    "pins": {
+        "4a203716-93a1-4305-bb1b-c5652e31dcfa": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SW1",
+            "swap_group": 0
+        },
+        "9b316ceb-6f60-43d1-8d8d-e9bce08bb637": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SW2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a704ac42-7957-49de-b5ab-85683991cc81"
+}

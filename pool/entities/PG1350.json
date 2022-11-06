@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "b9e91bc5-3856-4bb5-8f75-d31d5ee8ff59": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a704ac42-7957-49de-b5ab-85683991cc81"
+        }
+    },
+    "manufacturer": "Kailh",
+    "name": "PG1350",
+    "prefix": "SW",
+    "tags": [
+        "switch"
+    ],
+    "type": "entity",
+    "uuid": "50a37764-d0dc-4a01-aa5d-c2e4ca670b2c"
+}

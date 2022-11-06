@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "",
+    "pins": {
+        "813a4648-6cae-471a-adb5-e7f5780e02b4": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "b5271e94-e5ca-4f3c-8ba2-b545cb7b1489": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "c1aeb166-58f2-45b4-9549-cfa3595ddd67"
+}

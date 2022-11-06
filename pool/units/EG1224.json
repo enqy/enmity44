@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "EG1224",
+    "pins": {
+        "419421c6-ad32-4a83-b4d0-4240ef49aa53": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "70132509-7fa4-46cb-b7c5-5aa8e2afd59b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "981b2dfb-b540-46b6-bb60-169bb0fc0974": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C",
+            "swap_group": 0
+        },
+        "a9c63d2a-7c8a-4af1-a4b1-b7fb16dcf666": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Shield",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7ffbdd3b-e9fa-4433-a610-e488eb3940dd"
+}

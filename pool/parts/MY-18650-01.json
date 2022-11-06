@@ -1,0 +1,63 @@
+{
+    "MPN": [
+        false,
+        "MY-18650-01"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheet.lcsc.com/lcsc/2203021630_MYOUNG-MY-18650-01_C2979183.pdf"
+    ],
+    "description": [
+        false,
+        "18650 Battery Holder"
+    ],
+    "entity": "2e3290b1-ea78-434c-9ed0-6935cfdcfda5",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "MYOUNG"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "8b0432ae-9eca-4983-bd13-4d5443a5e56e": "C2979183"
+    },
+    "package": "810791df-5bce-44bf-ac51-c07e7e51841a",
+    "pad_map": {
+        "107f8444-0454-4eab-be49-68eb8475064a": {
+            "gate": "bc2ed153-fde1-442c-9b6a-3e653969ce8e",
+            "pin": "5074846c-f81f-49de-ba70-2702bf42a8f2"
+        },
+        "29517f3a-383a-4aad-9985-731161bab492": {
+            "gate": "bc2ed153-fde1-442c-9b6a-3e653969ce8e",
+            "pin": "5074846c-f81f-49de-ba70-2702bf42a8f2"
+        },
+        "49e20890-4fa6-4246-92b0-9bb229d21be8": {
+            "gate": "bc2ed153-fde1-442c-9b6a-3e653969ce8e",
+            "pin": "da289d16-f543-4e0a-bdda-1a1f5487bc46"
+        },
+        "82945195-ee52-4b4c-88e8-9385676fb817": {
+            "gate": "bc2ed153-fde1-442c-9b6a-3e653969ce8e",
+            "pin": "da289d16-f543-4e0a-bdda-1a1f5487bc46"
+        },
+        "9683d9f2-60fc-4be5-9f7a-536ee005af11": {
+            "gate": "bc2ed153-fde1-442c-9b6a-3e653969ce8e",
+            "pin": "5074846c-f81f-49de-ba70-2702bf42a8f2"
+        },
+        "e9eb6f58-9e64-431e-b239-ec6c1577d8c9": {
+            "gate": "bc2ed153-fde1-442c-9b6a-3e653969ce8e",
+            "pin": "da289d16-f543-4e0a-bdda-1a1f5487bc46"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "battery",
+        "holder"
+    ],
+    "type": "part",
+    "uuid": "8b4c8ab8-0724-4895-bcf5-24b0a548328d",
+    "value": [
+        false,
+        ""
+    ]
+}

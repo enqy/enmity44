@@ -1,0 +1,100 @@
+{
+    "MPN": [
+        false,
+        "XIAO nRF52840"
+    ],
+    "datasheet": [
+        false,
+        "https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html"
+    ],
+    "description": [
+        false,
+        "Seeed Studio XIAO nRF52840 featuring Nordic nRF52840 MCU supports Bluetooth 5.0 & NFC and is Arduino-compatible. With its exquisite design, Bluetooth and built-in Type-C, it's perfect for TinyML, smart wearable devices, and IoT projects."
+    ],
+    "entity": "b1d8c441-aac3-4622-8022-d1b3fdba7556",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Seeed Studio"
+    ],
+    "model": "5a4d9f0c-346c-4ed6-86d6-4b76b65cada4",
+    "package": "9d22a3ba-76a2-42a9-bbe7-37a390a48ee6",
+    "pad_map": {
+        "039a94da-5a03-4070-a94e-ae8b6b175a0a": {
+            "gate": "fed1f61e-2108-48f0-8c33-96149e6a18bd",
+            "pin": "cf4fa48f-847f-4983-bd8b-00db9afaf991"
+        },
+        "10d9514e-4ec5-4b0c-a7aa-837a2bee8261": {
+            "gate": "fed1f61e-2108-48f0-8c33-96149e6a18bd",
+            "pin": "33ba64e9-2f99-4b24-8897-43cb60198979"
+        },
+        "36740325-ce36-4063-94a4-cf22a6f35abe": {
+            "gate": "fed1f61e-2108-48f0-8c33-96149e6a18bd",
+            "pin": "4e9deefe-a2d7-4b47-a9e8-f95df27a50c8"
+        },
+        "4ffe1166-cf6d-453c-b299-5f891424a09f": {
+            "gate": "fed1f61e-2108-48f0-8c33-96149e6a18bd",
+            "pin": "938d57a0-fa87-4f2a-9ab1-e17da1411e89"
+        },
+        "5ab2389f-77af-40f2-a187-c0c9387e257f": {
+            "gate": "fed1f61e-2108-48f0-8c33-96149e6a18bd",
+            "pin": "526baeb5-0058-4957-b4bb-5c980d869c1c"
+        },
+        "5bf6cb29-f567-4009-935b-20e768242908": {
+            "gate": "fed1f61e-2108-48f0-8c33-96149e6a18bd",
+            "pin": "6a04676b-13b8-4be9-ab69-679c35c3fccf"
+        },
+        "6416dc5c-1e59-4bf5-ab09-d20eaf581b45": {
+            "gate": "fed1f61e-2108-48f0-8c33-96149e6a18bd",
+            "pin": "4413fb9b-446d-4c7e-a066-99c09bf96272"
+        },
+        "6f2d6706-6d95-4626-8140-1710f73bc320": {
+            "gate": "fed1f61e-2108-48f0-8c33-96149e6a18bd",
+            "pin": "1342e4ce-f9aa-42fe-bd6c-15dffadd1c87"
+        },
+        "8946965f-48ce-4666-a826-81ef70b8d233": {
+            "gate": "fed1f61e-2108-48f0-8c33-96149e6a18bd",
+            "pin": "217d1a53-0064-4e4e-967f-cdb51cbb1962"
+        },
+        "b2b5b5cc-4562-4c07-bc97-c8a10f40de24": {
+            "gate": "fed1f61e-2108-48f0-8c33-96149e6a18bd",
+            "pin": "82be8869-1332-4d88-8e74-d579c158946c"
+        },
+        "d7dd7294-b14f-4002-b9f4-2c0f99f78fc3": {
+            "gate": "fed1f61e-2108-48f0-8c33-96149e6a18bd",
+            "pin": "cee5dbef-a147-4936-bbdc-f27b365508f9"
+        },
+        "dbc44ceb-f685-4490-9500-b39ab39f6150": {
+            "gate": "fed1f61e-2108-48f0-8c33-96149e6a18bd",
+            "pin": "06cda13a-4862-4d8b-b497-185f581af1cb"
+        },
+        "dcaf6c79-a838-4661-a612-f9432e76cfed": {
+            "gate": "fed1f61e-2108-48f0-8c33-96149e6a18bd",
+            "pin": "077b0715-456c-41eb-ac2a-63aadbfc92b0"
+        },
+        "de2d6cec-0d4c-42b0-a3c1-62d1094b90b0": {
+            "gate": "fed1f61e-2108-48f0-8c33-96149e6a18bd",
+            "pin": "536cd243-60ab-4fb4-a750-543e3fd50d95"
+        },
+        "de800267-aa20-4fcc-a7c0-20edc9fc3a97": {
+            "gate": "fed1f61e-2108-48f0-8c33-96149e6a18bd",
+            "pin": "d0d842ad-d31a-4d4d-aa9c-214d89b72d93"
+        },
+        "fe3cac56-e455-4669-a9b9-1502aab777ff": {
+            "gate": "fed1f61e-2108-48f0-8c33-96149e6a18bd",
+            "pin": "3e46e330-72cb-4000-8e57-b1bf97d1a18f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "arm",
+        "mcu"
+    ],
+    "type": "part",
+    "uuid": "873936cd-b48a-483d-a86c-280bceb20d32",
+    "value": [
+        false,
+        ""
+    ]
+}

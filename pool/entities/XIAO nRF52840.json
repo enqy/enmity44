@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "fed1f61e-2108-48f0-8c33-96149e6a18bd": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "36c0bad3-8d9e-42cb-a611-08ca89177427"
+        }
+    },
+    "manufacturer": "Seeed Studio",
+    "name": "XIAO nRF52840",
+    "prefix": "U",
+    "tags": [
+        "arm",
+        "mcu"
+    ],
+    "type": "entity",
+    "uuid": "b1d8c441-aac3-4622-8022-d1b3fdba7556"
+}
