@@ -325,7 +325,7 @@
                 "8648559f-e21e-48bf-99ab-20846736ae71": {
                     "position": [
                         -3750000,
-                        -33750000
+                        -28750000
                     ]
                 },
                 "88256ddc-651f-44e8-865f-8cb0b6d5d053": {
@@ -1348,6 +1348,20 @@
                         "port": null
                     }
                 },
+                "2e85af12-b47e-4144-9951-6d6fb0f4299e": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": "8648559f-e21e-48bf-99ab-20846736ae71",
+                        "pin": null,
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "8f6211e7-b66a-4b06-b81e-636c765e5d71/70132509-7fa4-46cb-b7c5-5aa8e2afd59b",
+                        "port": null
+                    }
+                },
                 "31768e85-63bb-4534-b5f5-bd8a9679f5bc": {
                     "from": {
                         "bus_ripper": null,
@@ -1905,20 +1919,6 @@
                         "bus_ripper": null,
                         "junc": null,
                         "pin": "4d780539-135c-4f80-89cb-1ceb3e7ec9ca/33ba64e9-2f99-4b24-8897-43cb60198979",
-                        "port": null
-                    }
-                },
-                "66b08d6d-32a8-487e-a488-7a3de4f649f7": {
-                    "from": {
-                        "bus_ripper": null,
-                        "junc": null,
-                        "pin": "8f6211e7-b66a-4b06-b81e-636c765e5d71/419421c6-ad32-4a83-b4d0-4240ef49aa53",
-                        "port": null
-                    },
-                    "to": {
-                        "bus_ripper": null,
-                        "junc": "8648559f-e21e-48bf-99ab-20846736ae71",
-                        "pin": null,
                         "port": null
                     }
                 },
