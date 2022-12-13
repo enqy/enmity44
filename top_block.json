@@ -8,8 +8,7 @@
                 "QTY",
                 "MPN",
                 "value",
-                "manufacturer",
-                "refdes"
+                "manufacturer"
             ],
             "order": "asc",
             "sort_column": "refdes"
