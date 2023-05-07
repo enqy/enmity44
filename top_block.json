@@ -225,13 +225,13 @@
             "alt_pins": {},
             "connections": {
                 "bb30914e-42d3-47ca-9946-9ce0e743f3e3/419421c6-ad32-4a83-b4d0-4240ef49aa53": {
-                    "net": null
+                    "net": "3a12845a-3c94-4dc6-af13-d98a00a63f0f"
                 },
                 "bb30914e-42d3-47ca-9946-9ce0e743f3e3/70132509-7fa4-46cb-b7c5-5aa8e2afd59b": {
                     "net": "03cfb994-d575-4e7f-a548-9a3a704cbd1b"
                 },
                 "bb30914e-42d3-47ca-9946-9ce0e743f3e3/981b2dfb-b540-46b6-bb60-169bb0fc0974": {
-                    "net": "3a12845a-3c94-4dc6-af13-d98a00a63f0f"
+                    "net": null
                 },
                 "bb30914e-42d3-47ca-9946-9ce0e743f3e3/a9c63d2a-7c8a-4af1-a4b1-b7fb16dcf666": {
                     "net": null
